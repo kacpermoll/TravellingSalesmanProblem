@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 from util import City, read_cities, generate_write_cities, calculate_path_cost
 from typing import List
 
-SIZE: int = 5
+SIZE: int = 25
 AUTO_GENERATE: bool = False
 
 class Greedy:
